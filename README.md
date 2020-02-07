@@ -7,7 +7,7 @@ This repository contains a collection of publications that I have been working o
 │   ├── book1.pdf: Some description.  
 │   └── book2.pdf: Some description.  
 ├── documentations: Some description.   
-│   └── doc1.pdf: Some description. 
+│   └── git-documentation.pdf: This document contains some helpful commands to navigate git (setup, maintenance, diffs and conflicts, branches and tags).
 ├── papers  
 │   ├── paper1.pdf: Some description.  
 |   ├── paper2.pdf: Some description.  
