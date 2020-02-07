@@ -4,8 +4,9 @@ This repository contains a collection of publications that I have been working o
 ```
 .  
 ├── book-reports  
-│   ├── operasjon-sjolvdisiplin.pdf: Summary of Agnes Ravatn's: Operasjon sjølvdisiplin.  
-│   └── hersketeknikker.pdf: Summary of Sigrid Sollund's Hersketeknikker: nyttige og nådeløse.    
+│   ├── hersketeknikker.pdf: Summary of Sigrid Sollund's Hersketeknikker: nyttige og nådeløse.
+│   ├── mindfulness-medfolelse.pdf: Summary of Katinka Thorne Salvesen amd Malin Wästlunds Mindfulness og medfølelse: En vei til vekst etter traumer.
+│   └── operasjon-sjolvdisiplin.pdf: Summary of Agnes Ravatn's: Operasjon sjølvdisiplin.      
 ├── documentations  
 │   └── git-documentation.pdf: This document contains some helpful commands to navigate git.  
 ├── papers  
