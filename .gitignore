@@ -10,5 +10,6 @@ wech/
 *.out
 *.synctex.gz
 *.toc
+*.bib.sav
 
 velvet-rage.*
