@@ -10,6 +10,6 @@ This repository contains a collection of publications that I have been working o
 `├── documentations`  
 `│   └── `[`git-documentation.pdf`](documentations/git-documentation.pdf)`: This document contains some helpful commands to navigate git.`  
 `├── papers`  
-`│   ├── paper1.pdf: Some description.`  
+`│   ├── `[`halbach2021categories.pdf`](./articles/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
 `|   ├── paper2.pdf: Some description.`  
 `│   └── paper3.pdf: Some description.` 
