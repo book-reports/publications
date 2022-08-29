@@ -11,5 +11,5 @@ This repository contains a collection of publications that I have been working o
 `│   └── `[`git-documentation.pdf`](documentations/git-documentation.pdf)`: This document contains some helpful commands to navigate git.`  
 `├── papers`  
 `│   ├── `[`halbach2021categories.pdf`](./articles/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
-`|   ├── paper2.pdf: Some description.`  
+`|   ├── `[`simonliedtke2021remote.pdf`](./articles/simonliedtke2021.remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`  
 `│   └── paper3.pdf: Some description.` 
