@@ -13,7 +13,7 @@ This repository contains a collection of publications that I have been working o
 `|   ├── 2013`  
 `|   │   └── `[`simonliedtke2013taskbased.pdf`](./articles/2013/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
 `|   ├── 2014`  
-`|   │   └── `[`simonliedtke2014pixelwise.pdf`](./articles/2014/simonliedtke2014pixelwise.pdf)`: Simon-Liedtke et al. (2014) Pixel-wise illuminant estimation for mixed illuminant scenes based on near-infrared camera information.` 
+`|   │   └── `[`simonliedtke2014pixelwise.pdf`](./articles/2014/simonliedtke2014pixelwise.pdf)`: Simon-Liedtke et al. (2014) Pixel-wise illuminant estimation for mixed illuminant scenes based on near-infrared camera information.`  
 `|   ├── 2015`  
 `|   │   ├── `[`simonliedtke2015samsemvisdem.pdf`](./articles/2015/simonliedtke2015samsemvisdem.pdf)`: Simon-Liedtke et al. (2015) Evaluating color deficiency simulation and daltonization methods through visual search and sample-to-match: SaMSEM and ViSDEM.`  
 `|   │   ├── `[`simonliedtke2015sicharda.pdf`](./articles/2015/simonliedtke2015sicharda.pdf)`: Simon-Liedtke & Farup (2015) Spatial Intensity Channel Replacement Daltonization (SIChaRDa).`  
@@ -35,6 +35,3 @@ This repository contains a collection of publications that I have been working o
 `|   └── 2022`  
 `|       ├── `[`simonliedtke2022theneed.pdf`](./articles/2022/simonliedtke2022theneed.pdf)`: Simon-Liedtke & Baraas (2022) The Need for Universal Design of eXtended Reality (XR) Technology in Primary and Secondary Education.`  
 `|       ├── `[`simonliedtke2022thesimulated.pdf`](./articles/2022/simonliedtke2022thesimulated.pdf)`: Simon-Liedtke & Halbach (2022) The Simulated User Impairment Testing (SUIT) Protocol and Toolbox for Digital Artifacts.`  
-
-
-Simon-Liedtke & Baraas (2022) The Need for Universal Design of eXtended Reality (XR) Technology in Primary and Secondary Education.
