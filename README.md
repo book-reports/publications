@@ -23,18 +23,18 @@ This repository contains a collection of publications that I have been working o
 `|   │   └── `[`zak2015cantherecognition.pdf`](./articles/2015/zak2015cantherecognition.pdf)`: Zak et al. (2015) Can the recognition of emotional expressions be enhanced by manipulating facial skin color?`  
 `|   ├── 2016`  
 `|   │   ├── `[`simonliedtke2016evaluating.pdf`](./articles/2016/simonliedtke2016evaluating.pdf)`: Evaluating color vision deficiency daltonization methods using a behavioral visual-search method.`  
-`|   │   └── `[`simonliedtke2016using.pdf`](./articles/2016/simonliedtke2016using.pdf)`: Simon-Liedtke & Farup (2016) Using a behavioral match-to-sample method to evaluate color vision deficiency simulation methods.`
+`|   │   └── `[`simonliedtke2016using.pdf`](./articles/2016/simonliedtke2016using.pdf)`: Simon-Liedtke & Farup (2016) Using a behavioral match-to-sample method to evaluate color vision deficiency simulation methods.`  
 `|   ├── 2017`  
-`|   │   ├── `[`simonliedtke2017checklist.pdf`](./articles/2017/simonliedtke2017checklist.pdf)`: Simon-Liedtke et al. (2017) Checklist for Daltonization methods: Requirements and characteristics of a good recolouring method.`
-`|   │   └── `[`simonliedtke2017ontheedge.pdf`](./articles/2017/simonliedtke2017ontheedge.pdf)`: Simon-Liedtke et al. (2017) On the edge: A scalable daltonization method focusing chromatic edges and contrast.`
+`|   │   ├── `[`simonliedtke2017checklist.pdf`](./articles/2017/simonliedtke2017checklist.pdf)`: Simon-Liedtke et al. (2017) Checklist for Daltonization methods: Requirements and characteristics of a good recolouring method.`  
+`|   │   └── `[`simonliedtke2017ontheedge.pdf`](./articles/2017/simonliedtke2017ontheedge.pdf)`: Simon-Liedtke et al. (2017) On the edge: A scalable daltonization method focusing chromatic edges and contrast.`  
 `|   ├── 2018`  
-`|   │   └── `[`simonliedtke2018multiscale.pdf`](./articles/2018/simonliedtke2018multiscale.pdf)`: Simon-Liedtke & Farup (2018) Multiscale Daltonization in the Gradient Domain.`
+`|   │   └── `[`simonliedtke2018multiscale.pdf`](./articles/2018/simonliedtke2018multiscale.pdf)`: Simon-Liedtke & Farup (2018) Multiscale Daltonization in the Gradient Domain.`  
 `|   ├── 2021`  
 `│   │   ├── `[`halbach2021categories.pdf`](./articles/2021/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
 `|   │   ├── `[`simonliedtke2021remote.pdf`](./articles/2021/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`  
 `|   └── 2022`  
-`|       ├── `[`simonliedtke2022theneed.pdf`](./articles/2022/simonliedtke2022theneed.pdf)`: Simon-Liedtke & Baraas (2022) The Need for Universal Design of eXtended Reality (XR) Technology in Primary and Secondary Education..`
-`|       ├── `[`simonliedtke2022thesimulated.pdf`](./articles/2022/simonliedtke2022thesimulated.pdf)`: Simon-Liedtke & Halbach (2022) The Simulated User Impairment Testing (SUIT) Protocol and Toolbox for Digital Artifacts.`
+`|       ├── `[`simonliedtke2022theneed.pdf`](./articles/2022/simonliedtke2022theneed.pdf)`: Simon-Liedtke & Baraas (2022) The Need for Universal Design of eXtended Reality (XR) Technology in Primary and Secondary Education.`  
+`|       ├── `[`simonliedtke2022thesimulated.pdf`](./articles/2022/simonliedtke2022thesimulated.pdf)`: Simon-Liedtke & Halbach (2022) The Simulated User Impairment Testing (SUIT) Protocol and Toolbox for Digital Artifacts.`  
 
 
 Simon-Liedtke & Baraas (2022) The Need for Universal Design of eXtended Reality (XR) Technology in Primary and Secondary Education.
