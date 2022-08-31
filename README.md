@@ -13,12 +13,14 @@ This repository contains a collection of publications that I have been working o
 `|   ├── 2013`  
 `|   │   └── `[`simonliedtke2013taskbased.pdf`](./articles/2013/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
 `|   ├── 2015`  
-`|   │   └── `[`zak2015cantherecognition.pdf`](./articles/2015/zak2015cantherecognition.pdf)`: Zak et al. (2015) Can the recognition of emotional expressions be enhanced by manipulating facial skin color?` 
+`|   │   └── `[`simonliedtke2015colorama.pdf`](./articles/2015/simonliedtke2015colorama.pdf)`: Simon-Liedtke (2015) Colorama: Extra Color Sensation for the Color-Deficient with Gene Therapy and Modal Augmentation.`  
+`|   │   └── `[`simonliedtke2015ethical.pdf`](./articles/2015/simonliedtke2015ethical.pdf)`: Simon-Liedtke (2015) Ethical Considerations on Gene Therapy for Color-Deficient People.`  
+`|   │   └── `[`simonliedtke2015empirical.pdf`](./articles/2015/simonliedtke2015empirical.pdf)`: Simon-Liedtke & Farup (2015) Empirical Disadvantages for Color-Deficient People.`  
+`|   │   └── `[`zak2015cantherecognition.pdf`](./articles/2015/zak2015cantherecognition.pdf)`: Zak et al. (2015) Can the recognition of emotional expressions be enhanced by manipulating facial skin color?`  
 `|   ├── 2016`  
 `|   ├── 2017`  
 `|   ├── 2018`  
 `|   ├── 2021`  
 `│   │   ├── `[`halbach2021categories.pdf`](./articles/2021/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
-`|   │   ├── `[`simonliedtke2021remote.pdf`](./articles/2021/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`   
-
+`|   │   ├── `[`simonliedtke2021remote.pdf`](./articles/2021/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`  
 `|   └── 2022`  
