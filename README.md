@@ -10,9 +10,15 @@ This repository contains a collection of publications that I have been working o
 `├── documentations`  
 `│   └── `[`git-documentation.pdf`](documentations/git-documentation.pdf)`: This document contains some helpful commands to navigate git.`  
 `├── papers`  
-`│   ├── `[`halbach2021categories.pdf`](./articles/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
-`|   ├── `[`simonliedtke2021remote.pdf`](./articles/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`  
-`|   ├── `[`simonliedtke2013taskbased.pdf`](./articles/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
-`│   └── paper3.pdf: Some description.` 
-
+`|   ├── 2013`  
+`|   │   └── `[`simonliedtke2013taskbased.pdf`](./articles/2013/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
+`|   ├── 2015`  
 `|   │   └── `[`zak2015cantherecognition.pdf`](./articles/2015/zak2015cantherecognition.pdf)`: Zak et al. (2015) Can the recognition of emotional expressions be enhanced by manipulating facial skin color?` 
+`|   ├── 2016`  
+`|   ├── 2017`  
+`|   ├── 2018`  
+`|   ├── 2021`  
+`│   │   ├── `[`halbach2021categories.pdf`](./articles/2021/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
+`|   │   ├── `[`simonliedtke2021remote.pdf`](./articles/2021/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`   
+
+`|   └── 2022`  
