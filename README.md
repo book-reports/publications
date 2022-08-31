@@ -12,6 +12,8 @@ This repository contains a collection of publications that I have been working o
 `├── papers`  
 `|   ├── 2013`  
 `|   │   └── `[`simonliedtke2013taskbased.pdf`](./articles/2013/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
+`|   ├── 2014`  
+`|   │   └── `[`simonliedtke2014pixelwise.pdf`](./articles/2014/simonliedtke2014pixelwise.pdf)`: Simon-Liedtke et al. (2014) Pixel-wise illuminant estimation for mixed illuminant scenes based on near-infrared camera information.` 
 `|   ├── 2015`  
 `|   │   ├── `[`simonliedtke2015samsemvisdem.pdf`](./articles/2015/simonliedtke2015samsemvisdem.pdf)`: Simon-Liedtke et al. (2015) Evaluating color deficiency simulation and daltonization methods through visual search and sample-to-match: SaMSEM and ViSDEM.`  
 `|   │   ├── `[`simonliedtke2015sicharda.pdf`](./articles/2015/simonliedtke2015sicharda.pdf)`: Simon-Liedtke & Farup (2015) Spatial Intensity Channel Replacement Daltonization (SIChaRDa).`  
