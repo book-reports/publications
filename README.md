@@ -23,6 +23,8 @@ This repository contains a collection of publications that I have been working o
 `|   │   ├── `[`simonliedtke2016evaluating.pdf`](./articles/2016/simonliedtke2016evaluating.pdf)`: Evaluating color vision deficiency daltonization methods using a behavioral visual-search method.`  
 `|   │   └── `[`simonliedtke2016using.pdf`](./articles/2016/simonliedtke2016using.pdf)`: Simon-Liedtke & Farup (2016) Using a behavioral match-to-sample method to evaluate color vision deficiency simulation methods.`
 `|   ├── 2017`  
+`|   │   ├── `[`simonliedtke2017checklist.pdf`](./articles/2017/simonliedtke2017checklist.pdf)`: Simon-Liedtke et al. (2017) Checklist for Daltonization methods: Requirements and characteristics of a good recolouring method.`
+`|   │   └── `[`simonliedtke2017ontheedge.pdf`](./articles/2017/simonliedtke2017ontheedge.pdf)`: Simon-Liedtke et al. (2017) On the edge: A scalable daltonization method focusing chromatic edges and contrast.`
 `|   ├── 2018`  
 `|   │   └── `[`simonliedtke2018multiscale.pdf`](./articles/2018/simonliedtke2018multiscale.pdf)`: Simon-Liedtke & Farup (2018) Multiscale Daltonization in the Gradient Domain.`
 `|   ├── 2021`  
