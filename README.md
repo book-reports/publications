@@ -14,3 +14,5 @@ This repository contains a collection of publications that I have been working o
 `|   ├── `[`simonliedtke2021remote.pdf`](./articles/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`  
 `|   ├── `[`simonliedtke2013taskbased.pdf`](./articles/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
 `│   └── paper3.pdf: Some description.` 
+
+`|   │   └── `[`zak2015cantherecognition.pdf`](./articles/2015/zak2015cantherecognition.pdf)`: Zak et al. (2015) Can the recognition of emotional expressions be enhanced by manipulating facial skin color?` 
