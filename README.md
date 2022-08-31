@@ -33,3 +33,8 @@ This repository contains a collection of publications that I have been working o
 `│   │   ├── `[`halbach2021categories.pdf`](./articles/2021/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
 `|   │   ├── `[`simonliedtke2021remote.pdf`](./articles/2021/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`  
 `|   └── 2022`  
+`|       ├── `[`simonliedtke2022theneed.pdf`](./articles/2022/simonliedtke2022theneed.pdf)`: Simon-Liedtke & Baraas (2022) The Need for Universal Design of eXtended Reality (XR) Technology in Primary and Secondary Education..`
+`|       ├── `[`simonliedtke2022thesimulated.pdf`](./articles/2022/simonliedtke2022thesimulated.pdf)`: Simon-Liedtke & Halbach (2022) The Simulated User Impairment Testing (SUIT) Protocol and Toolbox for Digital Artifacts.`
+
+
+Simon-Liedtke & Baraas (2022) The Need for Universal Design of eXtended Reality (XR) Technology in Primary and Secondary Education.
