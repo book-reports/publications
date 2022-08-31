@@ -13,14 +13,14 @@ This repository contains a collection of publications that I have been working o
 `|   ├── 2013`  
 `|   │   └── `[`simonliedtke2013taskbased.pdf`](./articles/2013/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
 `|   ├── 2015`  
-`|   │   └── `[`simonliedtke2015samsemvisdem.pdf`](./articles/2015/simonliedtke2015samsemvisdem.pdf)`: Simon-Liedtke et al. (2015) Evaluating color deficiency simulation and daltonization methods through visual search and sample-to-match: SaMSEM and ViSDEM.`
-`|   │   └── `[`simonliedtke2015sicharda.pdf`](./articles/2015/simonliedtke2015sicharda.pdf)`: Simon-Liedtke & Farup (2015) Spatial Intensity Channel Replacement Daltonization (SIChaRDa).`
+`|   │   └── `[`simonliedtke2015samsemvisdem.pdf`](./articles/2015/simonliedtke2015samsemvisdem.pdf)`: Simon-Liedtke et al. (2015) Evaluating color deficiency simulation and daltonization methods through visual search and sample-to-match: SaMSEM and ViSDEM.`  
+`|   │   └── `[`simonliedtke2015sicharda.pdf`](./articles/2015/simonliedtke2015sicharda.pdf)`: Simon-Liedtke & Farup (2015) Spatial Intensity Channel Replacement Daltonization (SIChaRDa).`  
 `|   │   └── `[`simonliedtke2015colorama.pdf`](./articles/2015/simonliedtke2015colorama.pdf)`: Simon-Liedtke (2015) Colorama: Extra Color Sensation for the Color-Deficient with Gene Therapy and Modal Augmentation.`  
 `|   │   └── `[`simonliedtke2015ethical.pdf`](./articles/2015/simonliedtke2015ethical.pdf)`: Simon-Liedtke (2015) Ethical Considerations on Gene Therapy for Color-Deficient People.`  
 `|   │   └── `[`simonliedtke2015empirical.pdf`](./articles/2015/simonliedtke2015empirical.pdf)`: Simon-Liedtke & Farup (2015) Empirical Disadvantages for Color-Deficient People.`  
 `|   │   └── `[`zak2015cantherecognition.pdf`](./articles/2015/zak2015cantherecognition.pdf)`: Zak et al. (2015) Can the recognition of emotional expressions be enhanced by manipulating facial skin color?`  
 `|   ├── 2016`  
-`|   │   └── `[`simonliedtke2016evaluating.pdf`](./articles/2016/simonliedtke2016evaluating.pdf)`: Evaluating color vision deficiency daltonization methods using a behavioral visual-search method.`
+`|   │   └── `[`simonliedtke2016evaluating.pdf`](./articles/2016/simonliedtke2016evaluating.pdf)`: Evaluating color vision deficiency daltonization methods using a behavioral visual-search method.`  
 `|   │   └── `[`simonliedtke2016using.pdf`](./articles/2016/simonliedtke2016using.pdf)`: Simon-Liedtke & Farup (2016) Using a behavioral match-to-sample method to evaluate color vision deficiency simulation methods.`
 `|   ├── 2017`  
 `|   ├── 2018`  
