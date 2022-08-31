@@ -18,6 +18,7 @@ This repository contains a collection of publications that I have been working o
 `|   │   └── `[`simonliedtke2015empirical.pdf`](./articles/2015/simonliedtke2015empirical.pdf)`: Simon-Liedtke & Farup (2015) Empirical Disadvantages for Color-Deficient People.`  
 `|   │   └── `[`zak2015cantherecognition.pdf`](./articles/2015/zak2015cantherecognition.pdf)`: Zak et al. (2015) Can the recognition of emotional expressions be enhanced by manipulating facial skin color?`  
 `|   ├── 2016`  
+`|   │   └── `[`simonliedtke2016evaluating.pdf`](./articles/2016/simonliedtke2016evaluating.pdf)`: Evaluating color vision deficiency daltonization methods using a behavioral visual-search method.`
 `|   ├── 2017`  
 `|   ├── 2018`  
 `|   ├── 2021`  
