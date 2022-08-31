@@ -10,7 +10,9 @@ This repository contains a collection of publications that I have been working o
 `├── documentations`  
 `│   └── `[`git-documentation.pdf`](documentations/git-documentation.pdf)`: This document contains some helpful commands to navigate git.`  
 `├── papers`  
-`│   ├── `[`halbach2021categories.pdf`](./articles/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
-`|   ├── `[`simonliedtke2021remote.pdf`](./articles/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`  
-`|   ├── `[`simonliedtke2013taskbased.pdf`](./articles/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
+`|   ├── 2013`  
+`|   │   └── `[`simonliedtke2013taskbased.pdf`](./articles/simonliedtke2013taskbased.pdf)`: Simon-Liedtke & Hardeberg (2013) Task-Based Accessibility Measurement of Daltonization Algorithms for Information Graphics.`  
+`|   ├── 2021`  
+`│   │   ├── `[`halbach2021categories.pdf`](./articles/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
+`|   │   ├── `[`simonliedtke2021remote.pdf`](./articles/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`   
 `│   └── paper3.pdf: Some description.` 
