@@ -24,6 +24,7 @@ This repository contains a collection of publications that I have been working o
 `|   │   └── `[`simonliedtke2016using.pdf`](./articles/2016/simonliedtke2016using.pdf)`: Simon-Liedtke & Farup (2016) Using a behavioral match-to-sample method to evaluate color vision deficiency simulation methods.`
 `|   ├── 2017`  
 `|   ├── 2018`  
+`|   │   └── `[`simonliedtke2018multiscale.pdf`](./articles/2018/simonliedtke2018multiscale.pdf)`: Simon-Liedtke & Farup (2018) Multiscale Daltonization in the Gradient Domain..`
 `|   ├── 2021`  
 `│   │   ├── `[`halbach2021categories.pdf`](./articles/2021/halbach2021categories.pdf)`: Halbach & Simon-Liedtke (2021) Categories of User Impairment.`  
 `|   │   ├── `[`simonliedtke2021remote.pdf`](./articles/2021/simonliedtke2021remote.pdf)`: Simon-Liedtke (2021) Remote Evaluation in Universal Design Using Video Conferencing Systems During the COVID-19 Pandemic.`  
