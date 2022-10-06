@@ -13,5 +13,6 @@ wech/
 *.bib.sav
 *.bib.sav.tmp
 *.bib.bak
+*.prefs
 
 velvet-rage.*
